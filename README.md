@@ -1,16 +1,13 @@
-## Hi there 👋
+Olá! 👋😄
+### Me chamo **Sophya Ribeiro**, tenho 20 anos e estou estudando Engenharia de Software. Atualmente estou atuando com diversos projetos web e mobile, a fim de compreender o que realmente quero exercer.
 
-<!--
-**sophya-ribeiro/sophya-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+ 
+Fale comigo
 
-Here are some ideas to get you started:
+- No Linkedin: https://www.linkedin.com/in/sophya-ribeiro/
+- No Instagram: https://www.instagram.com/sophyamq/
+- Ou pelo email: sophyamartinsribeiro@gmail.com
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Vencer a si próprio é a maior das vitórias. 
