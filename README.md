@@ -1,5 +1,5 @@
 Olá! 👋😄
-### Me chamo **Sophya Ribeiro**, tenho 20 anos e estou estudando Engenharia de Software. Atualmente estou atuando com diversos projetos web e mobile, a fim de compreender o que realmente quero exercer.
+### Me chamo **Sophya Ribeiro**, tenho 20 anos e estou estudando Engenharia de Software. Atualmente estou atuando com diversos projetos web e mobile.
 
 <br>
  
