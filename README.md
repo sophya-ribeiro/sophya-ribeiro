@@ -7,7 +7,6 @@ Fale comigo
 
 - No Linkedin: https://www.linkedin.com/in/sophya-ribeiro/
 - No Instagram: https://www.instagram.com/sophyamq/
-- Ou pelo email: sophyamartinsribeiro@gmail.com
 <br>
 
 > Vencer a si próprio é a maior das vitórias. 
